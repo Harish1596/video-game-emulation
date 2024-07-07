@@ -13,10 +13,11 @@ VIII.	https://en.wikipedia.org/wiki/Freeware
 IX.	https://en.wikipedia.org/wiki/Shareware
 
 # EMULATION SOFTWARE
-I.	https://www.codemotion.com/magazine/frontend/gamedev/how-to-build-an-emulator/
-II.	https://hhdsoftware.com/free-hex-editor
-III.	https://www.pokecommunity.com/threads/rom-hacking-getting-started.341758/
-
+<ol>
+<li>https://www.codemotion.com/magazine/frontend/gamedev/how-to-build-an-emulator/</li>
+<li>https://hhdsoftware.com/free-hex-editor</li>
+<li>https://www.pokecommunity.com/threads/rom-hacking-getting-started.341758/</li>
+</ol>
 # HISTORY OF EMULATION
 I.	https://emulation.gametechwiki.com/index.php/History_of_emulation
 II.	https://lukearnott.weebly.com/culturenautica-blog/video-game-emulation-a-short-history
